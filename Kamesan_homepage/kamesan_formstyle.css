@@ -1,0 +1,46 @@
+header h1 {
+    color: black;
+    font-size: 1.2em;
+    margin: 0px;
+    }
+    header p {
+    color: black;
+    font-size: 1em;
+    margin: 4px 0px;
+    }
+h1,legend {
+    color: black;
+    }
+    fieldset {
+        color: black;
+    margin-bottom: 10px;
+    border: 2px solid rgb(144, 78, 8);
+    }
+    fieldset#personal dt {
+        color: black;
+    float: left;
+    width: 90px;
+    text-align: right;
+    padding-right: 15px;
+    }
+    fieldset#question p {
+        color: black;
+    margin-left: 15px;
+    }
+
+    h2 {
+        border-left: 6px solid skyblue;
+        padding-left: 12px;
+        font-size: 1.2em;
+        }
+        p#spot label {
+        float: left;
+        width: 100px;
+        margin: 5px 0;
+        }
+        p#spot label:last-child {
+        margin-bottom: 25px;
+        }
+        fieldset#question h2 {
+        clear: both;
+        }
